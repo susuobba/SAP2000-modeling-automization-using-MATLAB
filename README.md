@@ -1,1 +1,1 @@
-# SAP2000-modeling-automization-by-MATLAB
+# SAP2000-modeling-automization-using-MATLAB
