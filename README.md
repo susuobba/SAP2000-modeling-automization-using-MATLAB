@@ -1,4 +1,8 @@
 # SAP2000-modeling-automization-using-MATLAB
+## Introduction
+Modeling buildings and extracting data using FEA programs is a time-consuming process. Additionally, significant effort is required for data storage, analysis, and parsing. However, in situations where parametric studies are permitted, various buildings can be automatically modeled through API, and data output and processing can be easily done using API as well. SAP2000 is considered the optimal FEA program due to its diversity in FEA and API support for all functions. The API code was developed using MATLAB, which is the most suitable interpreter for research environments.
+
+>  SAP2000 provides APIs for various environments including MATLAB, C, and Python. However, due to incomplete documentation in the technical manual, some trial and error is necessary. ETABS, another product from the same company, offers only partial API functionality, resulting in many features of the code developed for SAP2000 being unusable when adapted for ETABS.
 
 ## Usage
 ### run_sap.m
